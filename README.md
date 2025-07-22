@@ -68,8 +68,8 @@ Traffic rule violations are a major cause of road accidents, traffic congestion,
 ## Sample Outputs
 
 ### 🔍 Interface (Streamlit)
-<img src="outputs/interface01.jpg" width="600"/>
-<img src="outputs/inf.jpg" width="600"/>
+<img src="outputs/interface01.png" width="600"/>
+<img src="outputs/inf.png" width="600"/>
 
 
 Interactive frontend where users can upload videos and select the violation type to detect.
@@ -77,21 +77,21 @@ Interactive frontend where users can upload videos and select the violation type
 ---
 
 ### Helmet Detection
-<img src="outputs/nh.jpg" width="600"/>
+<img src="outputs/nh.png" width="600"/>
 
 Bounding boxes in red or green based on helmet presence.
 
 ---
 
 ### Triple Riding Detection
-<img src="outputs/tr.jpg" width="600"/>
+<img src="outputs/tr.png" width="600"/>
 
 Highlights bikes with three or more persons.
 
 ---
 
 ### Red Light Crossing
-<img src="outputs/rc.jpg" width="600"/>
+<img src="outputs/rc.png" width="600"/>
 
 Marks vehicles violating the signal and shows “Violator” label.
 
